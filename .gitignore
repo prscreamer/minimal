@@ -1,7 +1,21 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /.vs
 /obj
 /bin
+/src/Application/bin/Debug/net8.0
+/src/Application/obj
+/src/Infrastructure/bin/Debug/net8.0
+/src/Infrastructure/obj
+/src/Presentation/bin/Debug/net8.0
+/src/Presentation/obj
+/tests/Application.Tests.Unit/bin/Debug/net8.0
+/tests/Application.Tests.Unit/obj
+/tests/Infrastructure.Tests.Integration/bin/Debug/net8.0
+/tests/Infrastructure.Tests.Integration/obj
+/tests/Presentation.Tests.Integration/bin/Debug/net8.0
+/tests/Presentation.Tests.Integration/obj
+/tests/Presentation.Tests.Unit/bin/Debug/net8.0
+/tests/Presentation.Tests.Unit/obj
